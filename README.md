@@ -22,8 +22,9 @@ Projects
 [x] project-lotteries-ruby
 2017-04-30
 [x] project-lotteries-bash
-2017-04-31
-[ ] project-lotteries-cpp
+2017-05-01
+[x] project-lotteries-cpp
+2017-05-02
 [ ] project-lotteries-elixir
 [ ] project-lotteries-java
 [ ] project-lotteries-javascript
