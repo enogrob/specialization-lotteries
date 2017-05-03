@@ -25,9 +25,10 @@ Projects
 2017-05-01
 [x] project-lotteries-cpp
 2017-05-02
+[x] project-lotteries-javascript
+2017-05-03
 [ ] project-lotteries-elixir
 [ ] project-lotteries-java
-[ ] project-lotteries-javascript
 [ ] project-lotteries-perl
 [ ] project-lotteries-python
 Courses
