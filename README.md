@@ -28,9 +28,11 @@ Projects
 [x] project-lotteries-javascript
 2017-05-03
 [x] project-lotteries-elixir
-2017-05-04
-[ ] project-lotteries-java
+2017-05-05
+[x] project-lotteries-java
+2017-05-06
 [ ] project-lotteries-perl
+2017-05-07
 [ ] project-lotteries-python
 Courses
 [ ] tutorialspoint-developers-best-practices
