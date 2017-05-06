@@ -31,7 +31,7 @@ Projects
 2017-05-05
 [x] project-lotteries-java
 2017-05-06
-[ ] project-lotteries-perl
+[x] project-lotteries-perl
 2017-05-07
 [ ] project-lotteries-python
 Courses
