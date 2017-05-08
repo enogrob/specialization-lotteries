@@ -30,8 +30,8 @@ Projects
 [x] project-lotteries-elixir
 2017-05-05
 [x] project-lotteries-java
-2017-05-06
-[x] project-lotteries-perl
+2017-05-06~2017-05-08
+[~] project-lotteries-perl
 2017-05-07
 [ ] project-lotteries-python
 Courses
